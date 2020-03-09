@@ -25,7 +25,10 @@
       P E R F E I T A
     </p>
   </div>
-
+  <div class="noticias">
+  <h1> Billie Eilish para de sussurrar </h1>
+  <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.96fmbauru.com.br%2Fnoticias%2Fmusica%2F2019%2F09%2Fbillie-eilish-far-shows-no-brasil-em-2020.html&psig=AOvVaw2GQQY1B5G8693rNb8sKPSx&ust=1583837985427000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjg8beejegCFQAAAAAdAAAAABAO">
+    </div>
   <div class="noticias">
     <h1> Mirian mostrou a raba pra ele </h1>
     <table style="width:60%">

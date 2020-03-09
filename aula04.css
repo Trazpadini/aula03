@@ -1,0 +1,46 @@
+
+*{
+  margin:0px;
+  padding: 0px;
+  /* https://www.w3.org/Style/Examples/007/fonts.pt_BR.html */
+  font-family: 'Italianno', cursive;
+  font-size: 60px;
+}
+
+body {
+  background-color: #DADADA;
+}
+/* .teste #logo h1: mudará todo h1 dentro do #logo na classe .teste */
+
+.site {
+  padding: 5px 140px 3px 140px;
+  background-color: #FFFFFF;
+  /* cor de um elemento */
+  width: 1000px;
+  /* Largura de um elemento */
+  margin: 0px auto;
+/* centralização de um elemento */
+  text-align: center;
+}
+.site .topo {
+  text-align: left;
+}
+/* .site .topo, .site .rodape   : assim as propriedades serão atribuidas aos dois */
+/* Margin: tudo que você quer que fique longe do seu texto
+  Border: borda
+  Padding: margem interna,  centraliza o conteúdo (por padrão ja vem definido)
+  Content: conteúdo */
+.site .conteudo {
+  /* a div conteudo dentro da div site */
+  background-color: pink;
+  min-height: 300px;
+  margin: 15px 0px;
+  padding: 15px 0px;
+  /* border-top: 0px; */
+  border-style: dashed;
+  border-color: #DADADA;
+}
+.site .conteudo .imagem {
+  text-align: right;
+  margin: 5px 25px;
+}
