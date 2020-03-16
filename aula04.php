@@ -15,11 +15,12 @@
       <div class="conteudo">
         Adoraria sua presença, nesse momento especial
         <div class=" imagem">
+          Data: 18/12/2020
           <img src="https://pm1.narvii.com/6908/a03fc01351f2b0812606c06c2c20f2ff2ffe5935r1-736-736v2_hq.jpg" style= "width:250px; height:0px auto;" >
         </div>
       </div>
       <div class="rodape">
-        Com amor, Billie
+        With love, Billie
       </div>
     </div>
   </body>
